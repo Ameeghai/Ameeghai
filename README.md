@@ -1,5 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Ameeghai&color=blue)
-<img src="https://media.giphy.com/media/S60CrIv4aCqJZzJ0is/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="400"/>
+
 
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
 <p align="center">
