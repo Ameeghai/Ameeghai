@@ -6,6 +6,9 @@
 <p align="center">
   <em>Exploring the quantum world of maybes and what-ifs 🌌</em>
 </p>
+### ⚛️ Quantum Matrix Rain
+
+<img src="https://your-hosted-link.com/qmatrix.gif" width="500"/>
 
 ---
 
