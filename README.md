@@ -1,14 +1,16 @@
+
 ![Profile views](https://komarev.com/ghpvc/?username=Ameeghai&color=blue)
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/S60CrIv4aCqJZzJ0is/giphy.gif" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bloch_sphere_animation.gif" width="200"/>
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
 
 
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
 <p align="center">
   <em>Exploring the quantum world of maybes and what-ifs 🌌</em>
 </p>
-### ⚛️ Quantum Matrix Rain
 
-<img src="https://your-hosted-link.com/qmatrix.gif" width="500"/>
 
 ---
 
