@@ -1,4 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Ameeghai&color=blue)
+<img src="https://media.giphy.com/media/S60CrIv4aCqJZzJ0is/giphy.gif" width="400"/>
+
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
 <p align="center">
   <em>Exploring the quantum world of maybes and what-ifs 🌌</em>
