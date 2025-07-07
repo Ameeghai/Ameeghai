@@ -26,7 +26,7 @@ I'm actively expanding my skillset through coursework, research mentorship, and 
 - 🏅 **Quantum Computing – CDAC & IIT Roorkee** *(May 2025)*  
 - 📖 **Quantum Computing – Womanium & WISER** *(Ongoing: June–July 2025)*  
 - 🧪 Topics: Quantum gates, circuits, decoherence, error correction  
-- 🛠️ Tools: `Python`, `Qiskit`, `QuTiP`, Jupyter Notebooks
+- 🛠️ Tools: `Python`, `Qiskit`, `Jupyter Notebooks`
 
 ---
 
@@ -34,13 +34,13 @@ I'm actively expanding my skillset through coursework, research mentorship, and 
 
 - ⚛️ Quantum Computing (theory + simulation)  
 - 💡 Quantum Optics (light-matter interaction, photon statistics)  
-- 🧾 Quantum Information & Measurement Theory
+  
 
 ---
 
 ### 🤝 Open to Research Internships
 
-I’m currently looking for **short-term research internships** or assistantships for **Winter 2025 (Dec–Jan)**.
+I’m currently looking for **short-term research internships** or assistantships.
 
 > 📌 I’ve completed a certificate course by **CDAC & IIT Roorkee**, and I’m currently pursuing one by **Womanium & WISER**, which are helping me build a solid theoretical foundation in quantum computing.  
 > I’d be grateful for any opportunity to assist with a **research project**, **literature review**, or **coding/simulation task**.
@@ -63,17 +63,5 @@ I’m currently looking for **short-term research internships** or assistantship
 ---
 
 
-<!--
-**Ameeghai/Ameeghai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
