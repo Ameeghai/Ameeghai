@@ -50,8 +50,8 @@ I’m currently looking for **short-term research internships** or assistantship
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn – Amee Ghai](https://www.linkedin.com/in/ameeghaiqc/)  
-- 📧 Email: **your.email@example.com**  
-- 📄 [Resume / Portfolio – Optional]
+- 📧 Email: b23ph1003@iitj.ac.in | ameeghai8@gmail.com 
+
 
 ---
 
