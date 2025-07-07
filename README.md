@@ -1,8 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ameeghai&color=blue)
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVoMm1wejN0aDVvajhmcndsNml3cmFxajNnanZ4bGg2NmhjbmV5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yQltwC4N8nzOE1WdDW/giphy.gif" width="200"/>
-<img src="https://www.google.com/imgres?q=quantum%20computing&imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FCBcmkyZ8v4tAc8PSDcEgvM.jpg&imgrefurl=https%3A%2F%2Fwww.livescience.com%2Fquantum-computing&docid=hJ-NSoexm2sUDM&tbnid=iTyGw1r-uY_tjM&vet=12ahUKEwiQmNb87KuOAxUNcWwGHUSHOnwQM3oECB4QAA..i&w=7680&h=4320&hcb=2&ved=2ahUKEwiQmNb87KuOAxUNcWwGHUSHOnwQM3oECB4QAA" width="200"/>
 
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
 <p align="center">
