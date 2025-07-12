@@ -1,5 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ameeghai&color=blue)
+![IIT Jodhpur](https://img.shields.io/badge/IIT%20Jodhpur-Physics-yellow?style=for-the-badge&logo=ionic&logoColor=black)
 
 
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
