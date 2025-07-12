@@ -4,6 +4,7 @@
 ![Quantum Enthusiast](https://img.shields.io/badge/Quantum-Enthusiast-purple?style=for-the-badge&logo=quantconnect&logoColor=white)
 ![Research Intern](https://img.shields.io/badge/Research--Intern-Aspirant-blue?style=for-the-badge&logo=academia&logoColor=white)
 ![Certified](https://img.shields.io/badge/Certified-CDAC--IITR%20%7C%20Womanium--WISER-green?style=flat-square&logo=verizon&logoColor=white)
+![Exploring the Maybes & What-Ifs](https://img.shields.io/badge/Exploring_the_Maybes_&_What--Ifs-%F0%9F%94%AE%20Quantum_Realm-blueviolet?style=for-the-badge&logo=protonmail&logoColor=white)
 
 
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
