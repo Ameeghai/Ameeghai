@@ -1,6 +1,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ameeghai&color=blue)
 ![IIT Jodhpur](https://img.shields.io/badge/IIT%20Jodhpur-Physics-yellow?style=for-the-badge&logo=ionic&logoColor=black)
+![Quantum Enthusiast](https://img.shields.io/badge/Quantum-Enthusiast-purple?style=for-the-badge&logo=quantconnect&logoColor=white)
+![Research Intern](https://img.shields.io/badge/Research--Intern-Aspirant-blue?style=for-the-badge&logo=academia&logoColor=white)
+![Certified](https://img.shields.io/badge/Certified-CDAC--IITR%20%7C%20Womanium--WISER-green?style=flat-square&logo=verizon&logoColor=white)
 
 
 <h1 align="center">👩‍🔬 Amee Ghai | Physics @ IIT Jodhpur</h1>
